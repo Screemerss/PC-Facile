@@ -1,5 +1,5 @@
 PC Facile / PC Easy
-Suggerimento: Fai uno screenshot della tua app, caricalo su un sito come Imgur e incolla qui il link dell'immagine in questo modo: !Screenshot dell'applicazione
+
 
 🇮🇹 Italiano
 PC Facile è un'utility semplice e intuitiva per Windows, pensata per aiutare anche gli utenti meno esperti a gestire, pulire e ottimizzare il proprio computer con pochi clic.
